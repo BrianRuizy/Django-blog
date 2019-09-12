@@ -1,2 +1,2 @@
 # Django-webapp-blog
-Building a robust blog webapp using django python web framework
+Building a full-fledged blog webapp using django python web framework
