@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-
+from .models import Post  # will bring in actual data, as opposed to dummy data
 #dummy data
 posts = [
     {
@@ -20,7 +20,7 @@ posts = [
 # Create your views here.
 def home(request):
     context = {
-        'posts': posts,
+        'posts': Post.objects.all()
     }
     return render(request, 'blog/home.html', context)
 
