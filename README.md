@@ -20,3 +20,6 @@ Frameworks and technologies include
 - [x] AWS [S3](https://aws.amazon.com/s3/) Backend.
 - [x] [Heroku](https://www.heroku.com/) deployment.
 
+
+------
+##### ©[Brian Ruiz](https://github.com/BrianRuizy)
