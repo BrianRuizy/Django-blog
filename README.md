@@ -1,4 +1,7 @@
-# Django-webapp-blog
+<h1 align="center">
+    <img alt="BR logo" title="Brian" src="https://github.com/BrianRuizy/portfolio-website-3.0/blob/master/Misc/BR%20logo%20gradient2.png" width="100">
+    </br>Django WebApp Blog
+</h1>
 
 Full-fledged CRUD blog webapp using Python and Django web framework.
 
