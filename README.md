@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 >
     <img alt="BR logo" title="Brian" src="https://github.com/BrianRuizy/portfolio-website-3.0/blob/master/Misc/BR%20logo%20gradient2.png" width="100">
     </br>Django WebApp Blog
 </h1>
