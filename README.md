@@ -18,10 +18,11 @@ Full-fledged CRUD blog webapp using Python and Django web framework.
 
 ## Dependencies
 
-Frameworks and technologies include
+Frameworks and technologies include...
 - [x] [Django](https://www.djangoproject.com/) Framework.
 - [x] AWS [S3](https://aws.amazon.com/s3/) Backend.
 - [x] [Heroku](https://www.heroku.com/) deployment.
+- [x] Django [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) styling.
 
 
 ------
